@@ -7,4 +7,6 @@ Innovations: We added different models, compared and contrasted these models wit
 
 Dataset: We got the dataset we used from kaggle, you can go to the link by clicking here. There are about 7 million data in the dataset. Their attributes are 4, productId, userID, ratings, timestamp.
 
-github.com/yunusarikan
+Pictures of the project are in the Report.pdf.
+
+[github.com/yunusarikan](https://github.com/yunusarikan/AmazonRecommandationSystem-Final)
